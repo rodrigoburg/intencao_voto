@@ -5,7 +5,7 @@ function desenha_pesquisas() {
 
 function intencao_voto() {
     var svg = dimple.newSvg("#todos_institutos", 850, 500);
-      d3.csv("todos_institutos.csv", function (data) {
+      d3.csv("https://s3-sa-east-1.amazonaws.com/blogedados/javascripts/intencao_votos/todos_institutos.csv", function (data) {
         var myChart = new dimple.chart(svg, data);
         myChart.setBounds(60, 30, 615, 405);
         var x = myChart.addTimeAxis("x", "data","%Y-%m-%d","%d/%m");
@@ -75,7 +75,7 @@ function intencao_voto() {
 
 function media_edados() {
     var svg = dimple.newSvg("#media_edados", 850, 500);
-      d3.csv("media_edados.csv", function (data) {
+      d3.csv("https://s3-sa-east-1.amazonaws.com/blogedados/javascripts/intencao_votos/media_edados.csv", function (data) {
         var myChart = new dimple.chart(svg, data);
         myChart.setBounds(60, 30, 615, 405);
         var x = myChart.addTimeAxis("x", "data","%Y-%m-%d","%d/%m");

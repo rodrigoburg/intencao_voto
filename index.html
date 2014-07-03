@@ -10,4 +10,11 @@
 <body>
 <div id="todos_institutos"></div>
 <div id ="media_edados"><script>desenha_pesquisas();</script></div>
+<script>
+$.getJSON("http://cors.io/spreadsheets.google.com/feeds/list/1Fgt0nmFrGUhcje14HXTDvJJTULHZxEHHrs103I1Sblo/od6/public/values?alt=json", function(data) {
+  //first row "title" column
+  console.log(data.feed.entry[0]['gsx$title']['$t']);
+});
+</script
+
 </body>

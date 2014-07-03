@@ -1,81 +1,81 @@
 data,valor,candidato,instituto
-2014-02-14,44,Dilma Rousseff,Ibope
-2014-02-16,44,Dilma Rousseff,Datafolha
+2014-02-16,44,Dilma Rousseff,Ibope
+2014-02-16,14,Aécio Neves,Ibope
+2014-02-16,6,Eduardo Campos,Ibope
+2014-02-16,2,Pastor Everaldo,Ibope
+2014-02-16,1,Outros,Ibope
 2014-02-17,41,Dilma Rousseff,Vox Populi
-2014-03-17,40,Dilma Rousseff,Ibope
-2014-04-07,38,Dilma Rousseff,Ibope
-2014-04-08,40,Dilma Rousseff,MDA
-2014-04-14,37,Dilma Rousseff,Datafolha
-2014-04-25,36,Dilma Rousseff,Datafolha
-2014-04-26,34,Dilma Rousseff,Sensus
-2014-05-08,37,Dilma Rousseff,Vox Populi
-2014-05-19,40,Dilma Rousseff,Ibope
-2014-06-01,40,Dilma Rousseff,Vox Populi
-2014-06-05,34,Dilma Rousseff,Datafolha
-2014-06-07,38,Dilma Rousseff,Ibope
-2014-06-19,39,Dilma Rousseff,Ibope
-2014-07-03,38,Dilma Rousseff,Datafolha
-2014-02-14,16,Aécio Neves,Ibope
-2014-02-16,14,Aécio Neves,Datafolha
 2014-02-17,17,Aécio Neves,Vox Populi
-2014-03-17,13,Aécio Neves,Ibope
-2014-04-07,16,Aécio Neves,Ibope
-2014-04-08,16,Aécio Neves,MDA
-2014-04-14,14,Aécio Neves,Datafolha
-2014-04-25,21,Aécio Neves,Datafolha
-2014-04-26,20,Aécio Neves,Sensus
-2014-05-08,20,Aécio Neves,Vox Populi
-2014-05-19,20,Aécio Neves,Ibope
-2014-06-01,21,Aécio Neves,Vox Populi
-2014-06-05,19,Aécio Neves,Datafolha
-2014-06-07,22,Aécio Neves,Ibope
-2014-06-19,21,Aécio Neves,Ibope
-2014-07-03,20,Aécio Neves,Datafolha
-2014-02-14,9,Eduardo Campos,Ibope
-2014-02-16,6,Eduardo Campos,Datafolha
 2014-02-17,6,Eduardo Campos,Vox Populi
-2014-03-17,6,Eduardo Campos,Ibope
-2014-04-07,10,Eduardo Campos,Ibope
-2014-04-08,8,Eduardo Campos,MDA
-2014-04-14,6,Eduardo Campos,Datafolha
-2014-04-25,11,Eduardo Campos,Datafolha
-2014-04-26,8,Eduardo Campos,Sensus
-2014-05-08,11,Eduardo Campos,Vox Populi
-2014-05-19,11,Eduardo Campos,Ibope
-2014-06-01,8,Eduardo Campos,Vox Populi
-2014-06-05,7,Eduardo Campos,Datafolha
-2014-06-07,13,Eduardo Campos,Ibope
-2014-06-19,10,Eduardo Campos,Ibope
-2014-07-03,9,Eduardo Campos,Datafolha
-2014-02-14,3,Pastor Everaldo,Ibope
-2014-02-16,2,Pastor Everaldo,Datafolha
 2014-02-17,1,Pastor Everaldo,Vox Populi
-2014-03-17,3,Pastor Everaldo,Ibope
-2014-04-07,2,Pastor Everaldo,Ibope
-2014-04-08,2,Pastor Everaldo,MDA
-2014-04-14,2,Pastor Everaldo,Datafolha
-2014-04-25,0,Pastor Everaldo,Datafolha
-2014-04-26,2,Pastor Everaldo,Sensus
-2014-05-08,3,Pastor Everaldo,Vox Populi
-2014-05-19,3,Pastor Everaldo,Ibope
-2014-06-01,2,Pastor Everaldo,Vox Populi
-2014-06-05,4,Pastor Everaldo,Datafolha
-2014-06-07,3,Pastor Everaldo,Ibope
-2014-06-19,3,Pastor Everaldo,Ibope
-2014-07-03,4,Pastor Everaldo,Datafolha
-2014-02-14,2,Outros,Ibope
-2014-02-16,1,Outros,Datafolha
 2014-02-17,0,Outros,Vox Populi
+2014-02-20,44,Dilma Rousseff,Datafolha
+2014-02-20,16,Aécio Neves,Datafolha
+2014-02-20,9,Eduardo Campos,Datafolha
+2014-02-20,3,Pastor Everaldo,Datafolha
+2014-02-20,2,Outros,Datafolha
+2014-03-17,40,Dilma Rousseff,Ibope
+2014-03-17,13,Aécio Neves,Ibope
+2014-03-17,6,Eduardo Campos,Ibope
+2014-03-17,3,Pastor Everaldo,Ibope
 2014-03-17,1,Outros,Ibope
-2014-04-07,4,Outros,Ibope
-2014-04-08,1,Outros,MDA
-2014-04-14,2,Outros,Datafolha
-2014-04-25,2,Outros,Datafolha
+2014-04-03,38,Dilma Rousseff,Datafolha
+2014-04-03,14,Aécio Neves,Datafolha
+2014-04-03,10,Eduardo Campos,Datafolha
+2014-04-03,2,Pastor Everaldo,Datafolha
+2014-04-03,3,Outros,Datafolha
+2014-04-14,37,Dilma Rousseff,Ibope
+2014-04-14,14,Aécio Neves,Ibope
+2014-04-14,6,Eduardo Campos,Ibope
+2014-04-14,2,Pastor Everaldo,Ibope
+2014-04-14,3,Outros,Ibope
+2014-04-25,36,Dilma Rousseff,MDA
+2014-04-25,21,Aécio Neves,MDA
+2014-04-25,11,Eduardo Campos,MDA
+2014-04-25,0,Pastor Everaldo,MDA
+2014-04-25,2,Outros,MDA
+2014-05-08,37,Dilma Rousseff,Datafolha
+2014-05-08,20,Aécio Neves,Datafolha
+2014-05-08,11,Eduardo Campos,Datafolha
+2014-05-08,3,Pastor Everaldo,Datafolha
+2014-05-08,2,Outros,Datafolha
+2014-04-26,34,Dilma Rousseff,Sensus
+2014-04-26,20,Aécio Neves,Sensus
+2014-04-26,8,Eduardo Campos,Sensus
+2014-04-26,2,Pastor Everaldo,Sensus
 2014-04-26,2,Outros,Sensus
-2014-05-08,4,Outros,Vox Populi
-2014-05-19,3,Outros,Ibope
+2014-05-21,40,Dilma Rousseff,Ibope
+2014-05-21,20,Aécio Neves,Ibope
+2014-05-21,11,Eduardo Campos,Ibope
+2014-05-21,3,Pastor Everaldo,Ibope
+2014-05-21,3,Outros,Ibope
+2014-06-01,40,Dilma Rousseff,Vox Populi
+2014-06-01,21,Aécio Neves,Vox Populi
+2014-06-01,8,Eduardo Campos,Vox Populi
+2014-06-01,2,Pastor Everaldo,Vox Populi
 2014-06-01,1,Outros,Vox Populi
-2014-06-05,5,Outros,Datafolha
-2014-06-07,4,Outros,Ibope
-2014-06-19,6,Outros,Ibope
-2014-07-03,5,Outros,Datafolha
+2014-06-05,34,Dilma Rousseff,Datafolha
+2014-06-05,19,Aécio Neves,Datafolha
+2014-06-05,7,Eduardo Campos,Datafolha
+2014-06-05,4,Pastor Everaldo,Datafolha
+2014-06-05,2,Outros,Datafolha
+2014-06-07,38,Dilma Rousseff,Ibope
+2014-06-07,22,Aécio Neves,Ibope
+2014-06-07,13,Eduardo Campos,Ibope
+2014-06-07,3,Pastor Everaldo,Ibope
+2014-06-07,3,Outros,Ibope
+2014-06-15,39,Dilma Rousseff,Ibope
+2014-06-15,21,Aécio Neves,Ibope
+2014-06-15,10,Eduardo Campos,Ibope
+2014-06-15,3,Pastor Everaldo,Ibope
+2014-06-15,6,Outros,Ibope
+2014-07-02,38,Dilma Rousseff,Datafolha
+2014-07-02,20,Aécio Neves,Datafolha
+2014-07-02,9,Eduardo Campos,Datafolha
+2014-07-02,4,Pastor Everaldo,Datafolha
+2014-07-02,5,Outros,Datafolha
+2014-04-08,40,Dilma Rousseff,Vox Populi
+2014-04-08,16,Aécio Neves,Vox Populi
+2014-04-08,8,Eduardo Campos,Vox Populi
+2014-04-08,2,Pastor Everaldo,Vox Populi
+2014-04-08,1,Outros,Vox Populi
